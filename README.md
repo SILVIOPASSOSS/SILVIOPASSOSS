@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Silvio Passos
 
-- Estudando VueJS e JavaScript
+- Estudando VueJS, JavaScript e Laravel :)
 
 <div>
   <a href="https://github.com/SILVIOPASSOSS">
